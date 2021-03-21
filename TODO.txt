@@ -1,0 +1,2 @@
+/products
+/ajax/html/more/products
